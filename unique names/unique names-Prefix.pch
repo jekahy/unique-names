@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'unique names' target in the 'unique names' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
