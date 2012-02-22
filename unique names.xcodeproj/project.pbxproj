@@ -29,7 +29,7 @@
 		F2C55EC014EEE0FB007A1DC3 /* unique names */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "unique names"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2C55EC414EEE0FB007A1DC3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F2C55EC714EEE0FB007A1DC3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F2C55ECA14EEE0FB007A1DC3 /* unique names-Prefix.pch */ = {isa = PBXFileReference; path = "unique names-Prefix.pch"; sourceTree = "<group>"; };
+		F2C55ECA14EEE0FB007A1DC3 /* unique names-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "unique names-Prefix.pch"; sourceTree = "<group>"; };
 		F2C55ECB14EEE0FB007A1DC3 /* unique_names.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = unique_names.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
